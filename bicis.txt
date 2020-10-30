@@ -3,3 +3,4 @@ Bast:criatura:de_fae:1267:home_llop:la_taberna
 Cronista:escriptor:cronista:1315:ser_atracat:caminos
 Elodin:mestre:de_Nomenament:1320:cridar_el_vent:universitat
 AAAAAAAAAAAAAAAASssssssssssssssssssssssssssssssssssssssss
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
